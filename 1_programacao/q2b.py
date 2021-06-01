@@ -12,9 +12,6 @@ soma = 0
 media = 0
 moda = 0 #numero que mais aparece na sequencia de dados
 
-#repetidor para insercao dos 6 numeros
-#while contador < 6:
-
 #int(input(mensagem)) --> transforma o valor da entrada em inteiro
 numero1 = int(input("Por favor, digite um numero: "))
 numero2 = int(input("Por favor, digite um numero: "))
